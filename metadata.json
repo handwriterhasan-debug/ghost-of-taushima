@@ -1,0 +1,6 @@
+{
+  "name": "Explosive Samurai",
+  "description": "An interactive cinematic 16:9 gaming companion hub for Ghost of Tsushima, featuring interactive legends, combat stances, and historical chronicles of Jin Sakai and the Mongol invasion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
